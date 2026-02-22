@@ -356,8 +356,8 @@ Visual demonstrations from the project documentation.
 
 | Member | GitHub Profile | Role |
 |:--:|:--:|:--:|
-| Daniel Castro | — | Development |
-| Victoria Acero | — | Development |
+| Daniel Castro | — | [@Dani2044](https://github.com/Dani2044)| Development |
+| Victoria Acero | — | Development | 
 | Juan Rozo | [@JuanR771](https://github.com/JuanR771) | Development |
 
 > **Pontificia Universidad Javeriana** — Bogotá D.C., Colombia
